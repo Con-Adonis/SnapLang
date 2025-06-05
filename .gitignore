@@ -1,0 +1,8 @@
+# Kaggle
+kaggle.json
+
+# Datasets and cache
+data/
+__pychache__/
+*.csv
+*.zip
