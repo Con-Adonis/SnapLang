@@ -7,4 +7,4 @@ __pychache__/
 *.csv
 *.zip
 
-.DS_Store
+.DS_Store.DS_Store
