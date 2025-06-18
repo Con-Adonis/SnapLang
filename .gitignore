@@ -1,7 +1,11 @@
-# Kaggle
+#Virtual Environments
+__pychache__/
+venv/
+
+#Kaggle
 kaggle.json
 
-# Datasets and cache
+#Datasets
 data/
 __pychache__/
 *.csv

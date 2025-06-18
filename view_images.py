@@ -11,8 +11,8 @@ class_names = [
 ]
 
 #Load and display images
-num_images_to_show = 3
-images = sorted(os.listdir(image_dir))[:num_images_to_show]
+sample_imgs = 3
+images = sorted(os.listdir(image_dir))[:sample_imgs]
 
 for img_name in images:
     img_path = os.path.join(image_dir, img_name)
